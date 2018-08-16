@@ -1,5 +1,4 @@
 # iOS-Meetup   Aug 2018   Demos
 
-TransitionsDemo - Gabriel Lanata
-
-AccessibilityDemo - Marco Salazar
+- AccessibilityDemo - Marco Salazar
+- TransitionsDemo - Gabriel Lanata
